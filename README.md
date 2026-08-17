@@ -1,2 +1,2 @@
 # Programacion-Orientada-A-Objetos
-Investugaciones, Fundamentos y ejemplos de Programación Orientada a Objetos (OOP) implementadas de forma multilenguaje Python, JavaScript, C# y C++
+Investigaciones, Fundamentos y ejemplos de Programación Orientada a Objetos (OOP) implementadas de forma multilenguaje Python, JavaScript, C# y C++
